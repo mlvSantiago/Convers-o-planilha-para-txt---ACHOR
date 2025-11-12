@@ -33,7 +33,7 @@ No terminal (ou prompt de comando):
 
 ```bash
 python3 gerar_pjsip.py ramais
-
+```
 Onde "ramais" é o nome da planilha, sem extensão, contendo os ramais a serem cadastrados 
 
 
@@ -45,5 +45,6 @@ Antes de executar , instale as dependencias se nescessarias
 
 ```bash
 pip install pandas openpyxl
+```
 
 
