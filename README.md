@@ -39,7 +39,7 @@ Onde "ramais" é o nome da planilha, sem extensão, contendo os ramais a serem c
 
 ---
 
-##🧰 Requisitos
+## 🧰 Requisitos
 
 Antes de executar , instale as dependencias se nescessarias
 
